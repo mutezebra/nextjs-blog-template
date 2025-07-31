@@ -1,12 +1,12 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
-    name: "Nextjs Blog Template",
-    description: "Nextjs Blog Template",
-    keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
-    url: "https://xxx.com",
-    baseUrl: "https://xxx.com",
-    image: "https://xxx.com/og-image.png",
+    title: "mutezebra`s blog",
+    name: "mutezebra`s blog",
+    description: "mutezebra`s blog",
+    keywords: ["mutezebra", "K8s", "Go", "6.5840"],
+    url: "https://mutezebra.github.io",
+    baseUrl: "https://mutezebra.github.io",
+    image: "https://mutezebra.github.io/og-image.png",
     favicon: {
       ico: "/favicon.ico",
       png: "/favicon.png",
@@ -25,21 +25,21 @@ export const config = {
     },
   },
   author: {
-    name: "Your Name",
-    email: "your.email@example.com",
-    bio: "这是一个 Nextjs 博客模板",
+    name: "mutezebra",
+    email: "mutezebra@qq.com",
+    bio: "Untouched, unknown.",
   },
   social: {
-    github: "https://github.com/xxx",
-    x: "https://x.com/xxx",
-    xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
-    wechat: "https://storage.xxx.com/images/wechat-official-account.png",
-    buyMeACoffee: "https://www.buymeacoffee.com/xxx",
+    github: "https://github.com/mutezebra",
+    // x: "https://x.com/mutezebra",
+    // xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
+    // wechat: "https://storage.xxx.com/images/wechat-official-account.png",
+    // buyMeACoffee: "https://www.buymeacoffee.com/xxx",
   },
   giscus: {
-    repo: "guangzhengli/hugo-ladder-exampleSite",
-    repoId: "R_kgDOHyVOjg",
-    categoryId: "DIC_kwDOHyVOjs4CQsH7",
+    repo: "mutezebra/nextjs-blog-template",
+    repoId: "R_kgDOPV1DdQ",
+    categoryId: "DIC_kwDOPV1Ddc4CtnpV",
   },
   navigation: {
     main: [
