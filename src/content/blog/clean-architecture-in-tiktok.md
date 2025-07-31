@@ -1,8 +1,9 @@
 ---
 title: "tiktok 中的整洁架构"
-description: "tiktok 中的整洁架构"
+summary: "tiktok 中的整洁架构"
 date: "2024-07-07"
-tags: ["architecture","Go","clean-architecture"]
+featured: true
+keywords: ["architecture","Go","clean-architecture"]
 ---
 
 或许整洁架构对你而言有些陌生，让你在review代码的时候感到困惑，没关系，我会向你举例帮助你理解他。

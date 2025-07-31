@@ -1,8 +1,9 @@
 ---
 title: "在Go语言中如何更详细地处理与包装错误"
-description: "在Go语言中如何更详细地处理与包装错误"
 date: "2024-11-25"
-tags: ["Go","error","log"]
+featured: true
+keywords: ["Go","error","log"]
+summary: "在Go语言中如何更详细地处理与包装错误"
 ---
 
 ## 1.Go语言中的错误处理基础

@@ -8,15 +8,15 @@ export const config = {
     baseUrl: "https://mutezebra.github.io",
     image: "https://mutezebra.github.io/og-image.png",
     favicon: {
-      ico: "/favicon.ico",
       png: "/favicon.png",
+      ico: "/favicon.ico",
       svg: "/favicon.svg",
       appleTouchIcon: "/favicon.png",
     },
     manifest: "/site.webmanifest",
     rss: {
-      title: "Nextjs Blog Template",
-      description: "Thoughts on Full-stack development, AI",
+      title: "mutezebra`s blog",
+      description: "Untouched, unknown",
       feedLinks: {
         rss2: "/rss.xml",
         json: "/feed.json",
